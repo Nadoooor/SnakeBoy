@@ -1,4 +1,4 @@
-25377999295941051
+25383338156522165
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57796,8 +57796,8 @@ Module_TFT_1.8_160x128
 http://www.lcdwiki.com/1.8inch_SPI_Module_ST7735S_SKU:MSP1804
 TFT module 1.8 inch SD card
 0
-24
-24
+12
+12
 Display-extra
 Nokia_5110_display_module
 
@@ -89374,7 +89374,7 @@ PAM8403
 
 0
 9
-1
+9
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -95080,6 +95080,13 @@ Logo WEEE
 0
 0
 0
+TP4056 module
+TP4056-18650
+
+
+0
+6
+6
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -101940,3 +101947,17 @@ varistor SIOV
 0
 2
 2
+slider
+RA2043F2010EB1B10K
+<b>RA2043F-20-10EB1-B10K-3</b><br>
+
+0
+3
+3
+slider
+TRIM_PTNS1-459.7PD-B10
+
+
+0
+3
+3
