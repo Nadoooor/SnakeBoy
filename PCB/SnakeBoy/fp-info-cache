@@ -1,4 +1,4 @@
-25383338156522165
+25385117784789515
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101947,6 +101947,13 @@ varistor SIOV
 0
 2
 2
+slider
+PS45M0MC2BR10KN
+PS45M-0MC2BR10KN-3
+Variable Resistor
+0
+6
+6
 slider
 RA2043F2010EB1B10K
 <b>RA2043F-20-10EB1-B10K-3</b><br>
