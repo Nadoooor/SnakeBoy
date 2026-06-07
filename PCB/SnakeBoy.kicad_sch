@@ -6404,7 +6404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "slider:PS45M0MC2BR10KN"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_PTV112-4_Dual_Vertical"
 			(at 135.89 56.515 0)
 			(effects
 				(font
