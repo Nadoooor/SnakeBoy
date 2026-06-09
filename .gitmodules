@@ -1,0 +1,3 @@
+[submodule "Firmware/retro-go"]
+	path = Firmware/retro-go
+	url = https://github.com/Nadoooor/retro-go
