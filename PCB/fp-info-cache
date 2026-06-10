@@ -1,4 +1,4 @@
-25385117784789515
+25386898883299779
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89368,6 +89368,13 @@ Potentiometer vertical vishay
 0
 3
 3
+RAM
+MAX98357
+
+
+0
+9
+9
 RAM
 PAM8403
 
