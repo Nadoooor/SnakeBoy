@@ -37,7 +37,9 @@ The Device is fully snake-themed and it has a snake had on the top of the device
 
 
 ### The Project's Zine-Page:
-![alt text](Images/SnakeZine.png)
+  <img src="Images/SnakeZine.png" alt="Centered Image" width="500">
+
+
 
 
 
