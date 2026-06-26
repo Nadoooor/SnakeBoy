@@ -2,7 +2,7 @@
 ------
 
 <p align="center">
-  <img src="Images/3D renders/hmmmmmm.png" alt="Centered Image" width="400">
+  <img src="Images/3D renders/hmmmmmm.png" alt="Centered Image" width="600">
 </p>
 
 ------
