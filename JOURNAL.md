@@ -1,6 +1,6 @@
 # SnakeBoy — Journal Export
 
-> [!NOTE]
+> [!IMPORTANT]
 > Keep in mind that this is a transferred Fallout project, all the recordings are attached, and the total time is written here.
 > All the journal entities made with lookout except the last entity that made with lapse. (There are about 3 hours which is already in the lookouts but also counted in the hackatime so plz remove them) It should be real 46.7h logged.
 
