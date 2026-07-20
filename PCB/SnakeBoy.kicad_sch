@@ -7948,7 +7948,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "z_Devices:TFT-320x240"
+		(property "Footprint" "Display-extra:TFT-320x240"
 			(at 50.292 55.626 0)
 			(show_name no)
 			(do_not_autoplace no)
