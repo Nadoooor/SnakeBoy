@@ -953,3 +953,28 @@ and that's it i finished this masterpiece.
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/9a96afa1-ed73-46aa-90f8-1fdcaf59f1fd/video.mp4
+
+## Entry 24:
+- Author: Nader
+- Date: 12/8/2026
+
+### Content:
+
+Uhh ok this is a quick update there is no much to say.
+
+Well, i got a bigger screen from china which is 2.8in and SPI so i decided to update this to match with it.
+
+Well started with the PCB and i found a Symbol on the internet but edited it to match the display i got, also edited the footprint to match it, and then traced every thing again wwith good pinouting.
+
+![alt text](/Images/Screen.png)
+
+![alt text](Images/PCBSCREEN.png)
+
+After that i rendered again and updated the zine.
+
+![alt text](<Images/SnakeZine (2).png>)
+
+And that's it for these quick editeds, fr.
+### Recording Links: 
+- https://lapse.hackclub.com/timelapse/eauxuoj68by2
+- https://lapse.hackclub.com/timelapse/5dyqDP2qGykL

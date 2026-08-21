@@ -31,13 +31,13 @@ The Device is fully snake-themed and it has a snake had on the top of the device
 ### Schematic:
 ![alt text](Images/Schem.png)
 ### 3D Case & Assembly:
-![alt text](<Images/3D renders/i hope'.png>)
+![alt text](<Images/3D renders/V2/Odown.png>)
 > [!NOTE]
 > Here you are the [Onshape Docs](https://cad.onshape.com/documents/0e87dfd5407f7a465ae1d2e0/w/c71d8217d927d32bb865edde/e/80890fb331397a75dcc65cb7)
 
 
 ### The Project's Zine-Page:
-  <img src="Images/SnakeZine.png" alt="Centered Image" width="500">
+  <img src="Images/SnakeZine (2).png" alt="Centered Image" width="500">
 
 
 
